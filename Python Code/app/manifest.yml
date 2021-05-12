@@ -1,0 +1,7 @@
+---
+applications:
+- name: predict_consumption
+  memory: 246MB
+  disk_quota: 800MB
+  random-route: false
+  buildpack: python_buildpack
